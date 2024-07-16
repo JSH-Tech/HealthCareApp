@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HealthCareSoftware</string>
+    <string name="btn_connexion">Connexion</string>
+    <string name="text_identifiant">Identifiant</string>
+    <string name="text_mot_de_passe">Mot de passe</string>
+    <string name="description_logo">Logo</string>
+</resources>
